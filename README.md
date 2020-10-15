@@ -1,4 +1,4 @@
-# DATA605: Data Ethics
+# DATA605: Data Ethics (Lippe)
 ## Hirabayashi
 
 I have included sample writing pieces of writing here.
